@@ -5,8 +5,8 @@
 package uicarretera;
 
 /**
- *
- * @author josepmedrano
+ * @TCarreteras Cenfotec - UICarretera
+ * @authors josepmedrano, danielabrizuela
  */
 public class TCenfoCalles {
 
